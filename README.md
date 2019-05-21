@@ -1,6 +1,6 @@
 # Swolemates: Find your workout buddy!
 
-> Application to help find a buddy to workout with based on location
+> Application to help find a buddy and an accountability partner to workout with.
 
 ## Table of Contents
 
