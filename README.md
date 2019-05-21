@@ -10,9 +10,9 @@
 
 ## Demo
 
-![](ezgif.com-optimize.gif)
+![](swolemates-demo.gif)
 
-This demo shows the navigation bar microservice.
+This demo shows the Display and Edit Profile microservice.
 
 ## Usage
 
