@@ -1,4 +1,4 @@
-# buff-buddies
+# Swolemates: Find your workout buddy!
 
 > Application to help find a buddy to workout with based on location
 
