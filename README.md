@@ -8,6 +8,12 @@
 1. [Requirements](#requirements)
 1. [Development](#development)
 
+## Demo
+
+![](ezgif.com-optimize.gif)
+
+This demo shows the navigation bar microservice.
+
 ## Usage
 
 > npm install, npm start, npm run build
